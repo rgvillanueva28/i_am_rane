@@ -1,0 +1,9 @@
+{
+    "dart.flutterSdkPath": "D:\\LocalRepo\\MOBILE\\flutter",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
